@@ -35,7 +35,7 @@ I have hands-on experience in ERP system development and backend engineering usi
 
 - **Description:** A full-stack note-taking and idea management application with a decoupled architecture, featuring API rate limiting and a responsive UI.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Redis, Tailwind CSS
-- **GitHub Link:** [github.com/RommJames/rj-thinkboard](https://github.com/RommJames/rj-thinkboard)
+- **GitHub Link:** [github.com/RommJames/rj-thinkboard](https://github.com/RommJames/rj-thinkboard) | [Live Demo](https://rj-thinkboard.onrender.com/)
 
 ### 4. MyLibrary
 
