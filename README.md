@@ -38,6 +38,21 @@ I have hands-on experience in ERP system development and backend engineering usi
 - **Description:** Developed and maintained ERP modules for multiple clients at Titus Global-Tech, implementing business workflows, backend logic, and system enhancements.
 - **Tech Stack:** Python, JavaScript, Frappe Framework, MySQL, SMTP/IMAP
 - **GitHub Link:** N/A (proprietary)
+- **My Sample Outputs / Features:**
+### Partial Invoicing
+![ticket-995-2nd-invoice-read-only-check-partial-invoicing](https://github.com/user-attachments/assets/a563c1ca-8a12-41aa-b606-7a8191eff4c9)
+![ticket-945-real-time-calculation](https://github.com/user-attachments/assets/0021926b-f123-445e-8d4a-a30fce1f4a13)
+
+### Validate Items that needed Insurance
+![existing_item_need_insurance](https://github.com/user-attachments/assets/41dffb95-07ed-4ebb-b1ef-abda6927889e)
+![saved_item_need_insurance](https://github.com/user-attachments/assets/170cb938-1bfc-40db-994e-ebaf74dfbbff)
+
+### Calculate Valuation of Goods
+![ValuationOfGoods](https://github.com/user-attachments/assets/a94dc001-9d9c-415c-b06a-de04fcf2e55d)
+
+### Address Report Page
+![ticket-778-report-page-department-filter](https://github.com/user-attachments/assets/8bbdd4f3-182f-4589-a74e-86a30f1b78da)
+
 
 ---
 
@@ -46,6 +61,19 @@ I have hands-on experience in ERP system development and backend engineering usi
 - **Description:** Contributed to a web-based system for managing port and cargo operations for Oroport Cargo Handling Services, focusing on backend modules and workflow automation.
 - **Tech Stack:** Python, JavaScript, Frappe Framework, Agile Scrum
 - **GitHub Link:** N/A (proprietary)
+- **My Sample Outputs / Features:**
+
+### Import Containers via File Upload
+![ticket-1934-fixed-oro-test-uploading-discharge](https://github.com/user-attachments/assets/375f36b5-d471-4505-9935-2355530a5e0c)
+
+
+### Update Existing Containers & Add Containers via File Upload
+![ticket-2045-update-import-confirmation](https://github.com/user-attachments/assets/5d81a9d0-a4d2-479b-9ce1-5c4cb2ed3efa)
+
+
+### Rename Storage Names
+![ticket-1791-sync-container-location-history](https://github.com/user-attachments/assets/2aa7e85b-e331-4a81-b756-1305ef9a73f3)
+
 
 </details>
 
