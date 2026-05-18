@@ -24,12 +24,7 @@ I have hands-on experience in ERP system development and backend engineering usi
 ---
 
 <details>
-<summary><strong>🗄️ Back-End / ERP Systems</strong> (2 projects)</summary>
-
-<br>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🐍 Frappe Framework / Python</summary>
+<summary><strong>� Work Experience</strong> (2 projects)</summary>
 
 <br>
 
@@ -81,8 +76,6 @@ I have hands-on experience in ERP system development and backend engineering usi
 
 </details>
 
-</details>
-
 ---
 
 <details>
@@ -106,8 +99,8 @@ I have hands-on experience in ERP system development and backend engineering usi
 **4. RJ MERN Product Store**
 
 - **Description:** A full-stack MERN product management application where users can create, view, update, and delete products through a clean, responsive UI with light/dark mode support.
-- **Tech Stack:** React 19, Vite, Chakra UI, Zustand, React Router DOM, Node.js, Express, MongoDB, Mongoose
-- **GitHub Link:** [github.com/RommJames/rj-mern-product-store](https://github.com/RommJames/rj-mern-product-store)
+- **Tech Stack:** React 19, Vite, Chakra UI, Zustand, React Router DOM, React Icons, Framer Motion, Node.js, Express, MongoDB, Mongoose
+- **GitHub Link:** [github.com/RommJames/rj-mern-product-store](https://github.com/RommJames/rj-mern-product-store) | [Live Demo](https://rj-mern-product-store.onrender.com/)
 
 </details>
 
@@ -135,8 +128,8 @@ I have hands-on experience in ERP system development and backend engineering usi
 
 **6. RJ Cine Log**
 
-- **Description:** A React web application for tracking movies and TV shows. Log entries with title, type, genre, watch status, star ratings, and personal notes. Features add/edit/delete entries, filter by type and status, sort by date added, title, or rating, and a watch summary with at-a-glance stats.
-- **Tech Stack:** React 19, Vite, React Compiler, Babel, CSS Modules, ESLint
+- **Description:** A React web application for tracking movies and TV shows, powered by the OMDB API for real-time movie search and metadata. Log entries with title, type, genre, watch status, star ratings, and personal notes. Features add/edit/delete entries, filter by type and status, sort by date added, title, or rating, and a watch summary with at-a-glance stats.
+- **Tech Stack:** React 19, Vite, React Compiler, Babel, CSS Modules, ESLint, OMDB API
 - **GitHub Link:** [github.com/RommJames/rj-cine-log](https://github.com/RommJames/rj-cine-log) | [Live Demo](https://rj-cine-log.vercel.app/)
 
 </details>
