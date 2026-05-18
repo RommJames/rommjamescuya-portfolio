@@ -24,7 +24,7 @@ I have hands-on experience in ERP system development and backend engineering usi
 ---
 
 <details>
-<summary><strong>� Work Experience</strong> (2 projects)</summary>
+<summary><strong>👨‍💻 Work Experience</strong> (2 projects)</summary>
 
 <br>
 
