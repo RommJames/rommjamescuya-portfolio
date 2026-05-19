@@ -5,7 +5,15 @@ export const projects = [
     category: "Work",
     description:
       "Developed and maintained ERP modules for multiple clients at Titus Global-Tech, implementing business workflows, backend logic, and system enhancements. Features include partial invoicing, insurance validation, valuation of goods, and custom reports.",
-    tech: ["Python", "JavaScript", "Frappe Framework", "MySQL", "SMTP/IMAP"],
+    tech: [
+      "Python",
+      "JavaScript",
+      "Frappe Framework",
+      "MySQL",
+      "SMTP/IMAP",
+      "Unit Testing",
+      "Cypress",
+    ],
     github: null,
     demo: null,
     featured: true,
@@ -17,7 +25,14 @@ export const projects = [
     category: "Work",
     description:
       "Contributed to a web-based system for managing port and cargo operations for Oroport Cargo Handling Services, focusing on backend modules, workflow automation, and container import/update via file upload.",
-    tech: ["Python", "JavaScript", "Frappe Framework", "Agile Scrum"],
+    tech: [
+      "Python",
+      "JavaScript",
+      "Frappe Framework",
+      "Agile Scrum",
+      "Unit Testing",
+      "Cypress",
+    ],
     github: null,
     demo: null,
     featured: true,

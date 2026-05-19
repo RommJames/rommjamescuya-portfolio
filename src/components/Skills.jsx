@@ -27,7 +27,16 @@ const skillData = [
   {
     icon: "⚙️",
     name: "Tools & DevOps",
-    tags: ["Git", "GitHub", "Vite", "Redis", "SMTP/IMAP", "VS Code"],
+    tags: [
+      "Git",
+      "GitHub",
+      "Vite",
+      "Redis",
+      "SMTP/IMAP",
+      "Unit Testing",
+      "Cypress",
+      "VS Code",
+    ],
   },
   {
     icon: "📋",

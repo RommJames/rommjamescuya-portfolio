@@ -13,6 +13,8 @@ const experience = [
       "Optimized database performance through query improvements and backend enhancements.",
       "Configured SMTP/IMAP email integrations for automated notifications and communication workflows.",
       "Collaborated in Agile Scrum: sprint planning, backlog refinement, daily stand-ups, and sprint reviews.",
+      "Wrote unit tests in Python to validate backend logic and ensure system reliability.",
+      "Developed automated end-to-end tests using Cypress to verify UI workflows and feature correctness.",
     ],
     tech: [
       "Python",
@@ -21,6 +23,8 @@ const experience = [
       "MySQL",
       "SMTP/IMAP",
       "Agile Scrum",
+      "Unit Testing",
+      "Cypress",
     ],
   },
   {
