@@ -6,9 +6,9 @@ const education = [
     school: "CIIT College of Innovation and Integrated Technology",
     degree: "Bachelor of Science in Computer Science (AI & Cloud Computing)",
     location: "Kamuning, Pasig City",
-    tags: ["BS Computer Science", "Dean's List", "GPA: 3.70/4.00"],
+    tags: ["BS Computer Science", "Dean's List", "GPA: 3.74/4.00"],
     highlights: [
-      "Dean's List — GPA 3.70/4.00",
+      "Dean's List — GPA 3.74/4.00",
       "Specialization: AI & Cloud Computing",
       "Coursework: Computer Programming (Java, C++, C#, Python), Architecture & Organization, 3D Modeling, Information Management, Technical Communication",
     ],

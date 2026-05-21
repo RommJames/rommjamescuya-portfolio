@@ -119,7 +119,7 @@ _Oroport Cargo Handling Services_
 **Bachelor of Science in Computer Science** _(Specialization: AI & Cloud Computing)_
 Aug 2025 – Present | Kamuning, Pasig City
 
-- GPA: 3.70/4.00 — Dean's List
+- GPA: 3.74/4.00 — Dean's List
 - Relevant Coursework: Computer Programming (Java, C++, C#, Python), Architecture and Organization, 3D Modeling, Information Management, Technical Communication
 
 ### MFI Polytechnic Institute

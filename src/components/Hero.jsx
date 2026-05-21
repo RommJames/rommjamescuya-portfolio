@@ -111,7 +111,7 @@ export default function Hero() {
               <div className="stat-lbl">Awards</div>
             </div>
             <div className="stat-card">
-              <div className="stat-num">3.70</div>
+              <div className="stat-num">3.74</div>
               <div className="stat-lbl">GPA</div>
             </div>
           </div>

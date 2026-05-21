@@ -27,7 +27,8 @@ export default function About() {
               <div className="about-badge">
                 <div className="about-badge-icon">🏆</div>
                 <strong>Gold Awardee</strong>
-                <span>WorldSkills Philippines</span>
+                <span>Tesda Skills Competition</span> <br />
+                <span>Web Technology</span>
               </div>
             </div>
           </Reveal>
