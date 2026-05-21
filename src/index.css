@@ -458,6 +458,12 @@ section {
 .hero-desc strong {
   color: var(--text);
 }
+.hero-meta {
+  font-size: 0.875rem;
+  color: #888;
+  margin-top: 0.75rem;
+  letter-spacing: 0.02em;
+}
 .hero-actions {
   display: flex;
   gap: 1rem;

@@ -27,13 +27,18 @@ export default function Hero() {
           </h1>
 
           <p className="hero-title">
-            <strong>Software Developer</strong> · ERP &amp; Full-Stack
+            <strong>Software Developer</strong> · Full-Stack
           </p>
 
           <p className="hero-desc">
-            Building scalable ERP systems, backend services, and clean web apps.
-            Currently at <strong>Titus Global-Tech</strong> and studying CS at{" "}
-            <strong>CIIT College</strong>.
+            Started with <strong>front-end</strong> — fell in love with it. Grew
+            into <strong>full-stack</strong>. Now building production systems
+            that <strong>work in the real world.</strong>
+          </p>
+
+          <p className="hero-meta">
+            Based in Pasig City, PH &nbsp;·&nbsp; Titus Global-Tech
+            &nbsp;·&nbsp; CIIT College
           </p>
 
           <div className="hero-actions">
