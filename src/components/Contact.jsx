@@ -77,9 +77,10 @@ export default function Contact() {
             <div className="contact-intro">
               <h3>Open to opportunities</h3>
               <p>
-                I&apos;m actively looking for backend, full-stack, or ERP
-                development roles. Whether you have a project in mind, a job
-                opportunity, or just want to connect — feel free to reach out!
+                I&apos;m actively looking for full-stack or software development
+                roles — locally or remote. Whether you have a job opportunity, a
+                project in mind, or just want to connect — feel free to reach
+                out!
               </p>
             </div>
 
@@ -139,7 +140,7 @@ export default function Contact() {
                 <input
                   className="c-input"
                   name="subject"
-                  placeholder="Job Opportunity / Project Inquiry"
+                  placeholder="Job Opportunity / Project Inquiry / Just Saying Hi"
                   value={form.subject}
                   onChange={handleChange}
                 />
@@ -149,7 +150,7 @@ export default function Contact() {
                 <textarea
                   className="c-textarea"
                   name="message"
-                  placeholder="Tell me about the role or project..."
+                  placeholder="Tell me about the role, project, or just introduce yourself..."
                   value={form.message}
                   onChange={handleChange}
                   required
