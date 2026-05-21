@@ -42,17 +42,21 @@ export default function About() {
                 <strong style={{ color: "var(--text)" }}>
                   Software Developer
                 </strong>{" "}
-                based in Pasig City, Philippines, specializing in ERP system
-                development and backend engineering. I build scalable business
-                applications using Python, JavaScript, and the Frappe Framework
-                — while staying current on full-stack web development.
+                based in Pasig City, Philippines, with hands-on production
+                experience building backend systems, full-stack web
+                applications, and automated test suites. I work with JavaScript,
+                React, Node.js, and Python — and I'm passionate about writing
+                clean, maintainable code that solves real problems.
               </p>
 
               <p>
-                Beyond code, I spent three years as an IT educator, coaching
-                students in web development and competitive programming. My team
-                achieved gold medals in TESDA skills competitions and a bronze
-                medal at the national level.
+                Beyond code, I spent three years as an IT educator and IT
+                support professional. I competed in the TESDA Skills Competition
+                under Web Technologies and earned 2 Gold and 1 Bronze medals. I
+                later returned as a coach, guiding students to 3 Gold and 1
+                Bronze medals in the same competition. That journey — from
+                competitor to coach — shaped how I communicate, lead, and pay
+                attention to detail.
               </p>
 
               <div className="about-meta">
@@ -70,7 +74,7 @@ export default function About() {
                 </div>
                 <div className="meta-item">
                   <span className="meta-lbl">Phone</span>
-                  <span className="meta-val">09760791479</span>
+                  <span className="meta-val">+63 976 079 1479</span>
                 </div>
                 <div className="meta-item">
                   <span className="meta-lbl">Company</span>

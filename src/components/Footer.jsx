@@ -12,7 +12,7 @@ export default function Footer() {
         </div>
 
         <p className="footer-copy">
-          © {year} Romm James Cuya. Built with React + Vite.
+          © {year} Romm James Cuya. To God be the Glory.
         </p>
 
         <div className="footer-links">

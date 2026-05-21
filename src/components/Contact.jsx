@@ -11,7 +11,7 @@ const contactLinks = [
   {
     icon: "📱",
     label: "Phone",
-    value: "09760791479",
+    value: "+63 976 079 1479",
     href: "tel:+639760791479",
   },
   {
