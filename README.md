@@ -4,10 +4,20 @@
 
 Hi! I'm **Romm James Cuya**, a Software Developer working from home in Pasig City, Philippines.
 
-I have hands-on experience in ERP system development and backend engineering using Frappe Framework, Python, and JavaScript. I enjoy building scalable business applications and am passionate about continuous learning, delivering clean and maintainable code, and growing as a backend or full-stack developer. I've also worked as an IT educator, coaching students in web development and programming across multiple languages.
+Started with front-end — fell in love with it. Grew into full-stack.
+Now building production systems that work in the real world.
+
+I have hands-on experience building backend systems, full-stack
+web applications, and automated test suites that run in real
+production environments. I work with JavaScript, React, Node.js,
+Frappe Framework, and Python — passionate about clean,
+maintainable code and continuous growth with modern technologies.
+Previously an IT educator and IT support professional for 3 years,
+where I competed and coached in the TESDA Skills Competition under
+Web Technologies — earning medals on both sides of the table.
 
 📧 rj.cuya010@gmail.com | 📱 09760791479
-🔗 [LinkedIn](https://linkedin.com/in/romm-james-cuya) | 🐙 [GitHub](https://github.com/RommJames)
+🔗 [LinkedIn](https://linkedin.com/in/romm-james-cuya) | 🐙 [GitHub](https://github.com/RommJames) | 🌐 [Portfolio Website](https://rommjamescuya-portfolio.vercel.app/)
 
 ---
 
