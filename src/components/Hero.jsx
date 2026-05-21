@@ -62,7 +62,7 @@ export default function Hero() {
               <GithubIcon />
             </a>
             <a
-              href="https://linkedin.com/in/romm-james-cuya"
+              href="https://www.linkedin.com/in/romm-james-cuya-a50b66238/"
               target="_blank"
               rel="noopener noreferrer"
               className="hero-social"

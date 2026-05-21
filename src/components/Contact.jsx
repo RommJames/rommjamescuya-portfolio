@@ -23,8 +23,8 @@ const contactLinks = [
   {
     icon: "💼",
     label: "LinkedIn",
-    value: "linkedin.com/in/romm-james-cuya",
-    href: "https://linkedin.com/in/romm-james-cuya",
+    value: "Romm James Cuya",
+    href: "https://www.linkedin.com/in/romm-james-cuya-a50b66238/",
   },
   {
     icon: "📄",
