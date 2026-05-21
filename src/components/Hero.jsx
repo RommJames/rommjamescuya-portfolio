@@ -84,7 +84,7 @@ export default function Hero() {
         <div className="hero-visual">
           <div className="hero-stats-l">
             <div className="stat-card">
-              <div className="stat-num">1+</div>
+              <div className="stat-num">4+</div>
               <div className="stat-lbl">Yrs Exp</div>
             </div>
             <div className="stat-card">
