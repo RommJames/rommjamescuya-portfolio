@@ -46,8 +46,9 @@ export default function About() {
                 based in Pasig City, Philippines, with hands-on production
                 experience building backend systems, full-stack web
                 applications, and automated test suites. I work with JavaScript,
-                React, Node.js, and Python — and I'm passionate about writing
-                clean, maintainable code that solves real problems.
+                React, Node.js, Frappe Framework, and Python — and I'm
+                passionate about writing clean, maintainable code that solves
+                real problems.
               </p>
 
               <p>
